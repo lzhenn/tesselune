@@ -1,5 +1,5 @@
 
-<img align="right" src="" alt="TesseLune Logo" width="200">
+<img align="right" src="https://raw.githubusercontent.com/lzhenn/tesselune/master/tesselune.png" alt="TesseLune Logo" width="200">
 
 # TesseLune: A Fast Area Weights Generater between Lat-Lon and Hexagonal Geospatial Meshes 
 
